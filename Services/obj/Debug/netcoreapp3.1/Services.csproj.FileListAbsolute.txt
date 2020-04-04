@@ -1,0 +1,5 @@
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs

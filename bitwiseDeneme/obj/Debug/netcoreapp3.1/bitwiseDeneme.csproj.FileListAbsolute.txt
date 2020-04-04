@@ -1,0 +1,11 @@
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\bitwiseDeneme\bin\Debug\netcoreapp3.1\bitwiseDeneme.exe
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\bitwiseDeneme\bin\Debug\netcoreapp3.1\bitwiseDeneme.deps.json
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\bitwiseDeneme\bin\Debug\netcoreapp3.1\bitwiseDeneme.runtimeconfig.json
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\bitwiseDeneme\bin\Debug\netcoreapp3.1\bitwiseDeneme.runtimeconfig.dev.json
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\bitwiseDeneme\bin\Debug\netcoreapp3.1\bitwiseDeneme.dll
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\bitwiseDeneme\bin\Debug\netcoreapp3.1\bitwiseDeneme.pdb
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\bitwiseDeneme\obj\Debug\netcoreapp3.1\bitwiseDeneme.csprojAssemblyReference.cache
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\bitwiseDeneme\obj\Debug\netcoreapp3.1\bitwiseDeneme.AssemblyInfoInputs.cache
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\bitwiseDeneme\obj\Debug\netcoreapp3.1\bitwiseDeneme.AssemblyInfo.cs
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\bitwiseDeneme\obj\Debug\netcoreapp3.1\bitwiseDeneme.dll
+C:\Users\kazım\Desktop\bitwise\BitwiseRole\bitwiseDeneme\obj\Debug\netcoreapp3.1\bitwiseDeneme.pdb
